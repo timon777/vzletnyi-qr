@@ -700,13 +700,13 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tDSKWMRnyJ .card {
-    border-right: 1px solid white;
+    //border-right: 1px solid white;
   }
 }
 @media (max-width: 991px) {
   .cid-tDSKWMRnyJ .card {
     border-right: 0px;
-    border-bottom: 1px solid white;
+   // border-bottom: 1px solid white;
   }
 }
 .cid-tDSKWMRnyJ .wrapper {
